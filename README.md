@@ -8,34 +8,27 @@ This project is fully professional — not a demo. It includes scalable backend 
 
 ## 🌍 Live Demo (Deployment Link)
 
-🔗 **Frontend Live URL:** https://YOUR_DEPLOYED_FRONTEND_LINK  
-🔗 **Backend API Base URL:** https://YOUR_DEPLOYED_BACKEND_LINK  
-
-> Replace these with your actual deployed URLs once you host on Vercel / Render / Railway / DigitalOcean.
-
+🔗 **Frontend Live URL:** https://airbnb-clone-pi-pearl.vercel.app/ 
+🔗 **Backend API Base URL:** https://airbnb-clone-8wrz.onrender.com
 ---
 
 ## 📸 Screenshots
 
-> Add your actual screenshots inside the `frontend/public/screenshots/` folder.
 
 ### 🏠 Home Page  
 [Home Page](https://github.com/user-attachments/assets/2ee2fcec-129d-46c2-b42b-1c21e279ad9a)
 
 ### 📄 Listing Page  
-![Listing Details](https://github.com/user-attachments/assets/e92be8b3-34a1-44ee-8e24-188c1b7e5211)
+[Listing Details](https://github.com/user-attachments/assets/666b5ea1-3f62-41ab-b3b6-fa17a4b8a397)
 
 ### 📄 Listing Details  
-![Listing Details](./frontend/public/screenshots/details.png)
+[Listing Details](https://github.com/user-attachments/assets/e92be8b3-34a1-44ee-8e24-188c1b7e5211)
 
-### 🛏️ Booking Page  
-![Booking](./frontend/public/screenshots/booking.png)
+### 🛏️ Creating Page  
+[Booking](https://github.com/user-attachments/assets/6442e609-b84c-4081-bd22-7697f8b2a68f)
 
-### ⭐ Reviews  
-![Reviews](./frontend/public/screenshots/reviews.png)
-
-
-
+### ⭐ Booking and Reviews Page 
+[Reviews](https://github.com/user-attachments/assets/d84ec528-57ca-48f1-a1b0-81d646550783)
 
 
 ## Tech Stack
@@ -137,7 +130,7 @@ airbnb_clone/
 
 ### Clone repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/airbnb_clone.git
+git clone https://github.com/Dileep8221/airbnb_clone.git
 cd airbnb_clone
 ```
 
@@ -291,12 +284,6 @@ CLOUDINARY_API_SECRET
 - Admin dashboard UI  
 - Email/SMS notifications  
 - Global multi-city search  
-
----
-
-## Contributing
-PRs are welcome.  
-For major changes, open an issue first.
 
 ---
 
