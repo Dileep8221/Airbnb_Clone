@@ -20,7 +20,7 @@ This project is fully professional — not a demo. It includes scalable backend 
 > Add your actual screenshots inside the `frontend/public/screenshots/` folder.
 
 ### 🏠 Home Page  
-![Home Page](https://github.com/user-attachments/assets/4b3fe1f9-6574-4453-bf17-dd07af287e65)
+![Home Page]()
 
 ### 🔍 Listings Page  
 ![Listings](./frontend/public/screenshots/listings.png)
