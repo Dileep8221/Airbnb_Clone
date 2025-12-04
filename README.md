@@ -20,8 +20,7 @@ This project is fully professional — not a demo. It includes scalable backend 
 > Add your actual screenshots inside the `frontend/public/screenshots/` folder.
 
 ### 🏠 Home Page  
-![Home Page](<img width="1862" height="910" alt="Screenshot 2025-12-04 075557" src="https://github.com/user-attachments/assets/09343216-43c0-4e82-acdc-c4167579c638" />
-)
+![Home Page]("C:\Users\dilee\OneDrive\Pictures\Screenshots\Screenshot 2025-12-04 080547.png")
 
 ### 🔍 Listings Page  
 ![Listings](./frontend/public/screenshots/listings.png)
