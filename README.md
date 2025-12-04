@@ -35,7 +35,8 @@ This project is fully professional — not a demo. It includes scalable backend 
 ![Reviews](./frontend/public/screenshots/reviews.png)
 
 
----
+---<img width="1862" height="910" alt="Screenshot 2025-12-04 075557" src="https://github.com/user-attachments/assets/2ee2fcec-129d-46c2-b42b-1c21e279ad9a" />
+
 
 ## Tech Stack
 
