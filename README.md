@@ -22,8 +22,8 @@ This project is fully professional — not a demo. It includes scalable backend 
 ### 🏠 Home Page  
 [Home Page](https://github.com/user-attachments/assets/2ee2fcec-129d-46c2-b42b-1c21e279ad9a)
 
-### 🔍 Listings Page  
-[Listings](./frontend/public/screenshots/listings.png)
+### 🏠 Home Page
+[<img src="./screenshots/home-thumb.png" width="400" />]([./screenshots/home.png](https://github.com/user-attachments/assets/2ee2fcec-129d-46c2-b42b-1c21e279ad9a))
 
 ### 📄 Listing Details  
 ![Listing Details](./frontend/public/screenshots/details.png)
