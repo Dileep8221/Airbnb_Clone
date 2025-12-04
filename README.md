@@ -8,28 +8,28 @@ This project is fully professional — not a demo. It includes scalable backend 
 
 ## 🌍 Live Demo (Deployment Link)
 
-🔗 *Frontend Live URL:** https://airbnb-clone-pi-pearl.vercel.app/ 
+🔗 **Frontend Live URL:** https://airbnb-clone-pi-pearl.vercel.app/ 
 
-🔗 *Backend API Base URL:** https://airbnb-clone-8wrz.onrender.com
+🔗 **Backend API Base URL:** https://airbnb-clone-8wrz.onrender.com
 
 ---
 
 ## 📸 Screenshots
 
 
-# 🏠 Home Page  
+### 🏠 Home Page  
 [Home Page](https://github.com/user-attachments/assets/2ee2fcec-129d-46c2-b42b-1c21e279ad9a)
 
-# 📄 Listing Page  
+### 📄 Listing Page  
 [Listing Details](https://github.com/user-attachments/assets/666b5ea1-3f62-41ab-b3b6-fa17a4b8a397)
 
-# 📄 Listing Details  
+### 📄 Listing Details  
 [Listing Details](https://github.com/user-attachments/assets/e92be8b3-34a1-44ee-8e24-188c1b7e5211)
 
-# 🛏️ Creating Page  
+### 🛏️ Creating Page  
 [Booking](https://github.com/user-attachments/assets/6442e609-b84c-4081-bd22-7697f8b2a68f)
 
-# ⭐ Booking and Reviews Page 
+### ⭐ Booking and Reviews Page 
 [Reviews](https://github.com/user-attachments/assets/d84ec528-57ca-48f1-a1b0-81d646550783)
 
 
